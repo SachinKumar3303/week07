@@ -142,6 +142,7 @@ After the CI pipeline completes successfully:
 2. Open your Azure Container Registry.
 3. Select **Repositories**.
 4. Verify that all application Docker images have been pushed successfully.
+adsasda
 
 The CI pipeline is complete when all tests pass and all required Docker images are available in ACR.
 
